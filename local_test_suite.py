@@ -1,3 +1,7 @@
+# NAME          : BRYAN HOOI YU ERN
+# EMAIL         : hooibryan@gmail.com
+# DATE EDITED   : 23/06/2021
+
 """
 Run using `python -m unittest local_test_suite`.
 """

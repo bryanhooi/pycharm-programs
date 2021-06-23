@@ -1,3 +1,7 @@
+# NAME          : BRYAN HOOI YU ERN
+# EMAIL         : hooibryan@gmail.com
+# DATE EDITED   : 23/06/2021
+
 """
 A function that creates and returns an ascii table.
 
